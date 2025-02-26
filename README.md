@@ -39,7 +39,7 @@ Me chamo Gabriel, tenho 18 anos e sou natural de Pernambuco. Atualmente, estou c
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"
+    src="https://www.svgrepo.com/show/353657/django-icon.svg"
 />
 
 <img 
