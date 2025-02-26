@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Gabriel Eric
-
+https://github.com/Gabriel-Eric08/Gabriel-Eric08/blob/main/README.md
 **`Desenvolvedor back-end`**
 
 Me chamo Gabriel, tenho 18 anos e sou natural de Pernambuco. Atualmente, estou cursando Licenciatura em computação na UFRPE.
