@@ -21,6 +21,10 @@ Me chamo Gabriel, tenho 18 anos e moro em Pernambuco. Atualmente, estou cursando
 
 ---
 
+<table>
+  <tr>
+    <td>
+      
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -34,8 +38,8 @@ Me chamo Gabriel, tenho 18 anos e moro em Pernambuco. Atualmente, estou cursando
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/353657/django-icon.svg"
@@ -74,13 +78,11 @@ Me chamo Gabriel, tenho 18 anos e moro em Pernambuco. Atualmente, estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
+    </td>
+    <td>
+      
 ### 📊 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -89,11 +91,12 @@ Me chamo Gabriel, tenho 18 anos e moro em Pernambuco. Atualmente, estou cursando
     src="https://github-readme-stats.vercel.app/api?username=Gabriel-Eric08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Eric08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+    </td>
+  </tr>
+</table>
