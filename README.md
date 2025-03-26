@@ -52,6 +52,33 @@ Desenvolvedor Back-end com experiência em Python, Django e Flask. Atualmente, a
 
 <img 
     align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
