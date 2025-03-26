@@ -1,7 +1,7 @@
-# 👩🏻‍💻 Gabriel Eric
+# 💻 Gabriel Eric
 **Desenvolvedor back-end**
 
-Me chamo Gabriel, tenho 18 anos e moro em Pernambuco. Atualmente, estou cursando Licenciatura em computação na UFRPE.
+Desenvolvedor Back-end com experiência em Python, Django e Flask. Atualmente, aprofundando conhecimentos em APIs e integração com serviços de Cloud.
 <p align="left">
     <a href="https://github.com/Gabriel-Eric08?tab=repositories&sort=stargazers">
         <img 
