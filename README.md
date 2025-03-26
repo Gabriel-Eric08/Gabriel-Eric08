@@ -74,7 +74,7 @@ Desenvolvedor Back-end com experiência em Python, Django e Flask. Atualmente, a
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"
+    src="https://www.svgrepo.com/show/303301/postgresql-logo.svg"
 />
 
 <img 
