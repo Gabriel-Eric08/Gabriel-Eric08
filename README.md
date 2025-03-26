@@ -34,11 +34,20 @@ Desenvolvedor Back-end com experiência em Python, Django e Flask. Atualmente, a
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/353657/django-icon.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/508915/flask.svg"
 />
 
 <img 
